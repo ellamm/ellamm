@@ -18,7 +18,7 @@ Welcome to my GitHub profile! I'm an aspiring frontend developer passionate abou
 - Web APIs
 
 <details> 
- <summary><span style="font-size: 3em; font-weight: bold;">🎯 Featured Projects</span></summary>
+ <summary><h2>🎯 Featured Projects</h2></summary>
 
 #### 🏀 [Basketball Scoreboard](https://github.com/ellamm/basketball-scoreboard)
 Interactive basketball scoreboard application built with JavaScript
