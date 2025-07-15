@@ -84,13 +84,6 @@ Professional web development showcase
 - Build a comprehensive portfolio website
 - Network with other developers and join the tech community
 
-### 📫 Let's Connect!
-
-I'm always excited to connect with fellow developers, potential collaborators, or anyone interested in web development!
-
-- 📧 **Email**: elamihai.mm@gmail.com
-- 💼 **LinkedIn**: [[Mihaela Drondu](https://www.linkedin.com/in/mihaela-mihai/)]
-
 ---
 
 ⭐ **Fun Fact**: I believe the best code is not just functional, but also readable and maintainable!
