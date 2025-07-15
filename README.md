@@ -17,7 +17,8 @@ Welcome to my GitHub profile! I'm an aspiring frontend developer passionate abou
 - VS Code
 - Web APIs
 
-### 🎯 Featured Projects
+<details> 
+  <summary>### 🎯 Featured Projects</summary>
 
 #### 🏀 [Basketball Scoreboard](https://github.com/ellamm/basketball-scoreboard)
 Interactive basketball scoreboard application built with JavaScript
@@ -53,6 +54,8 @@ Professional web development showcase
 - Portfolio presentation
 - Clean code structure
 - Modern web standards
+
+</details> 
 
 ### 🌱 What I'm Currently Learning
 
