@@ -7,15 +7,17 @@ Welcome to my GitHub profile! I'm an aspiring frontend developer passionate abou
 ### 🛠️ Tech Stack
 
 **Languages & Frameworks:**
-- HTML5, CSS3, JavaScript (ES6+)
-- Responsive Web Design
-- DOM Manipulation & Event Handling
+* HTML5, CSS3, JavaScript (ES6+)
+* React - Component-based UI development with hooks and state management
+* Responsive Web Design - Mobile-first approach with Flexbox/Grid
+* DOM Manipulation & Event Handling
+* Modern CSS - Animations, transitions, and advanced styling techniques
 
-**Tools & Technologies:**
-- Git & GitHub
-- Browser Developer Tools
-- VS Code
-- Web APIs
+**Development & Deployment:**
+* Git & GitHub - Version control and collaborative development
+* Netlify - Continuous deployment and hosting
+* NPM/Yarn - Package management and build processes
+* Browser Developer Tools - Debugging and performance optimization
 
 <details> 
  <summary><h3>🎯 Featured Projects</h3></summary>
