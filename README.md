@@ -19,118 +19,19 @@ Welcome to my GitHub profile! I'm an aspiring frontend developer passionate abou
 * NPM/Yarn - Package management and build processes
 * Browser Developer Tools - Debugging and performance optimization
 
-<details> 
- <summary><h3>🎯 Featured Projects</h3></summary>
+## 🌐 Portfolio Website
 
-### 🛒 [SuperM - E-commerce Application](https://github.com/ellamm/superM)
-A modern, responsive supermarket e-commerce application that demonstrates proficiency in frontend development and user experience design.
+### [React Playground – Interactive Portfolio](https://github.com/ellamm/react-playground)  
+An interactive portfolio showcasing **frontend projects and mini-apps**, built with React and Vite.  
+Each project highlights core frontend concepts such as state management, API integration, responsive design, and UI/UX.
 
-**Key Features:**
-- Fully responsive design (mobile, tablet, desktop)
-- Complete shopping cart functionality
-- Product search and filtering
-- Modern UI/UX with smooth animations
+**🔑 Key Features:**  
+- Centralized hub for projects with live demos and source code  
+- Search and filter functionality for easy navigation  
+- Responsive design for desktop and mobile  
+- Built with modern React practices (Hooks, Components, Router)  
 
-**Tech Stack:** React, HTML5, CSS3, JavaScript (ES6+), Vite, Netlify
-
----
-
-### 🎲 [Tenzies - Dice Game](https://github.com/ellamm/Tenzies)
-An engaging React-based dice game where players roll dice to match all ten dice to the same number.
-
-**Key Features:**
-- Interactive dice rolling mechanics
-- Victory celebrations
-
-**Tech Stack:** React, JavaScript, CSS3
-
----
-
-### 🔧 [Assembly Endgame](https://github.com/ellamm/assembly-endgame)
-A comprehensive assembly language project demonstrating low-level programming concepts and system architecture understanding.
-
-**Key Features:**
-- Interactive user interface with smooth animations
-- Modern development practices and clean code architecture
-- Performance-optimized with fast loading times
-- Accessible design following WCAG guidelines
-
-**Tech Stack:** React, HTML5, CSS3, JavaScript (ES6+), Vite, Netlify
-
----
-
-#### 🏀 [Basketball Scoreboard](https://github.com/ellamm/basketball-scoreboard)
-Interactive basketball scoreboard application built with JavaScript
-
-**Key Features:**
-- Real-time score tracking
-- Clean, intuitive user interface
-- Dynamic DOM manipulation
-
-**Tech Stack:** HTML5, CSS3, JavaScript (ES6+), Vite, Netlify 
-
----
-
-#### 🍕 [Food Tracker App](https://github.com/ellamm/food-tracker-app)
-Web application for tracking food consumption and nutrition
-
-**Key Features:**
-- User-friendly interface design
-- Local data management
-- Responsive layout
- 
-**Tech Stack:** HTML5, CSS3, JavaScript (ES6+), Firebase, Vite, Netlify 
-
----
-
-#### 🎨 [Museum of Candy](https://github.com/ellamm/museum-of-candy)
-Creative showcase website with engaging visual design
-
-**Key Features:**
-- Modern CSS styling techniques
-- Responsive design principles
-- Visual storytelling
-
-**Tech Stack:** HTML5, CSS3, Bootstrap, JavaScript 
-
----
-
-#### 🔧 [Unit Conversion Tool](https://github.com/ellamm/unit-conversion)
-Practical utility for converting between different units
-
-**Key Features:**
-- Clean, functional design
-- JavaScript calculation logic
-- User input validation
-
-**Tech Stack:** HTML5, CSS3, Vanilla JavaScript, Vite, Netlify 
-
----
-
-#### 🍦 [Ice Cream Project](https://github.com/ellamm/ice-cream)
-Creative web project showcasing CSS styling skills
-
-**Key Features:**
-- Visual design implementation
-- HTML structure and semantics
-
-**Tech Stack:** HTML5, CSS3, JavaScript, Vite, Netlify 
-
----
-
-#### 💼 [WebStudio](https://github.com/ellamm/WebStudio)
-Professional web development showcase
-
-**Key Features:**
-- Portfolio presentation
-- Clean code structure
-- Modern web standards
-
-**Tech Stack:** HTML5, CSS3, JavaScript 
-
----
-
-</details> 
+**🛠 Tech Stack:** React, Vite, JavaScript (ES6+), CSS Modules, Netlify  
 
 ### 🌱 What I'm Currently Learning
 
