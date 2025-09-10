@@ -21,7 +21,7 @@ Welcome to my GitHub profile! I'm an aspiring frontend developer passionate abou
 
 ## 🌐 Portfolio Website
 
-### [React Playground – Interactive Portfolio](https://github.com/ellamm/react-playground)  
+### 💼 [React Playground – Interactive Portfolio](https://github.com/ellamm/react-playground)  
 An interactive portfolio showcasing **frontend projects and mini-apps**, built with React and Vite.  
 Each project highlights core frontend concepts such as state management, API integration, responsive design, and UI/UX.
 
