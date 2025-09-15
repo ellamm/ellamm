@@ -19,7 +19,7 @@ Welcome to my GitHub profile! I'm an aspiring frontend developer passionate abou
 * NPM/Yarn - Package management and build processes
 * Browser Developer Tools - Debugging and performance optimization
 
-### 🌐 Portfolio Website - [React Playground – Interactive Portfolio](https://github.com/ellamm/react-playground) 
+### 🌐 Portfolio Website - [Interactive Portfolio](https://github.com/ellamm/portfolio) 
 
 * An interactive portfolio showcasing **frontend projects and mini-apps**, built with React and Vite.  
 * Each project highlights core frontend concepts such as state management, API integration, responsive design, and UI/UX.
